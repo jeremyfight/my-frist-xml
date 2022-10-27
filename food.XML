@@ -1,0 +1,22 @@
+<manu>
+<food>
+    <name>pizza</name>
+    <price>330$</price>
+    <cal>550</cal>
+    </food>
+<food>
+    <name>hotdog</name>
+    <price>130$</price>
+    <cal>350</cal>
+</food>
+<food>
+    <name>tinsum</name>
+    <price>100$</price>
+    <cal>250</cal>
+</food>
+<food>
+    <name>noodle</name>
+    <price>335$</price>
+    <cal>255</cal>
+    </food>
+</manu>
